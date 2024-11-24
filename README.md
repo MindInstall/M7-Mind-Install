@@ -12,10 +12,10 @@ Along with that, sometimes it is also important to understand any abusive expres
 
 **Members:**
 
+ - Krishna Patel
  - Astel Thottankara 
  - Dhrutik Patel
  - Dhruv Oza
- - Krishna Patel
  - Pranav Dherange
  
 
